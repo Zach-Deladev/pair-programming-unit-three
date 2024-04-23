@@ -1,6 +1,4 @@
-# {{PROBLEM}} Function Design Recipe
-
-Copy this into a `recipe.md` in your project and fill it out.
+# Task Tracker Function Design Recipe
 
 ## 1. Describe the Problem
 
